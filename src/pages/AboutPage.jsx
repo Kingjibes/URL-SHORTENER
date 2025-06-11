@@ -258,7 +258,7 @@ const AboutPage = () => {
                 <img  
                   className="w-36 h-36 md:w-40 md:h-40 rounded-full mx-auto mb-6 border-4 border-purple-500/50 shadow-xl cyber-glow object-cover"
                   alt="HACKERPRO - Founder of CIPHERTECH, a visionary in digital technology"
-                  src={architectImageUrl === "YOUR_CUSTOM_IMAGE_URL_HERE" ? undefined : architectImageUrl}
+                  src={architectImageUrl === "https://zuctusbetucsmsywshyk.supabase.co/storage/v1/object/public/imgurl/2xphja_1749683914445.jpg" ? undefined : architectImageUrl}
                  src="https://images.unsplash.com/photo-1677442135131-4d7c123aef1c" />
               </motion.div>
               <h3 className="text-3xl font-bold text-purple-300 mb-2">HACKERPRO</h3>
