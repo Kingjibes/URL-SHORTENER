@@ -49,7 +49,7 @@ const AboutPage = () => {
     { icon: Code, label: 'Shortest Link Created', value: '1ms', unit: '', description: 'Record-breaking efficiency.' },
   ];
 
-  const architectImageUrl = "YOUR_CUSTOM_IMAGE_URL_HERE"; // Replace with your image URL
+  const architectImageUrl = "https://zuctusbetucsmsywshyk.supabase.co/storage/v1/object/public/imgurl/tpq9ip_1749685163365.jpg"; // Replace with your image URL
 
   return (
     <motion.div
