@@ -1,0 +1,25 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="64" height="64" rx="12" fill="url(#paint0_linear_favicon)"/>
+<path d="M20.7998 32L28.7998 24L36.7998 32L28.7998 40L20.7998 32Z" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <animateTransform attributeName="transform" type="rotate" from="0 32 32" to="360 32 32" dur="10s" repeatCount="indefinite"/>
+</path>
+<path d="M36.7998 32L44.7998 24" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <animate attributeName="stroke-dasharray" from="0 100" to="100 0" dur="3s" repeatCount="indefinite" />
+</path>
+<path d="M36.7998 32L44.7998 40" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+   <animate attributeName="stroke-dasharray" from="100 0" to="0 100" dur="3s" repeatCount="indefinite" />
+</path>
+<defs>
+<linearGradient id="paint0_linear_favicon" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A855F7">
+  <animate attributeName="stop-color" values="#A855F7;#EC4899;#22D3EE;#A855F7" dur="5s" repeatCount="indefinite" />
+</stop>
+<stop offset="0.5" stop-color="#EC4899">
+   <animate attributeName="stop-color" values="#EC4899;#22D3EE;#A855F7;#EC4899" dur="5s" repeatCount="indefinite" />
+</stop>
+<stop offset="1" stop-color="#22D3EE">
+   <animate attributeName="stop-color" values="#22D3EE;#A855F7;#EC4899;#22D3EE" dur="5s" repeatCount="indefinite" />
+</stop>
+</linearGradient>
+</defs>
+</svg>
